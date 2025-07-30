@@ -14,7 +14,7 @@ os.system('cls')
 print("\nAdicione novos produtos. Digite 'sair' em qualquer campo obrigatório para encerrar.\n")
 
 while True:
-    descricao = input("Descrição (OBRIGATÓRIO): ")
+    descricao = input("Nome (OBRIGATÓRIO): ")
     if descricao.lower() == 'sair':
         break
 
