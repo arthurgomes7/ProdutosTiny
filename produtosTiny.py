@@ -2,7 +2,7 @@ import pandas as pd
 import os
 from datetime import datetime
 
-caminho_original = 'produtos.xls'  # <-- ALTEREs AQUI
+caminho_original = 'produtos.xls'
 
 df_existente = pd.read_excel(caminho_original)
 
