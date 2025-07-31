@@ -41,6 +41,7 @@ while True:
     categoria = 'LOJA'
     marca = 'Loja Fisica'
     sob_encomenda = 'NÃO'
+    permitir_inclusao = 'Sim'
 
     produto = {
         'Código (SKU)': sku,
@@ -54,7 +55,9 @@ while True:
         'GTIN/EAN': gtin,
         'Categoria': categoria,
         'Marca': marca,
-        'Sob encomenda': sob_encomenda
+        'Sob encomenda': sob_encomenda,
+        'Permitir inclusão nas vendas': permitir_inclusao 
+
     }
 
     novos_produtos.append(produto)
