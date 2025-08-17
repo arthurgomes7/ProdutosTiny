@@ -21,3 +21,5 @@ Para instalar as bibliotecas, execute o seguinte comando no seu terminal:
 
 ```bash
 pip install pandas openpyxl
+```
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python.svg" width="40" height="40"/>
