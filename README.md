@@ -1,6 +1,6 @@
 # Gerenciador de Produtos em Planilha Excel
 
-Este é um script em Python de linha de comando desenvolvido para facilitar a adição de novos produtos a uma planilha Excel já existente, garantindo a organização e a integridade dos dados.
+Este é um script em Python de linha de comando desenvolvido para facilitar a adição de novos produtos a uma planilha Excel já existente para um ERP especifico, garantindo a organização e a integridade dos dados.
 
 ## Funcionalidades
 
